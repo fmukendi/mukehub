@@ -1,0 +1,5 @@
+baseURL = "https://fmukendi.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
