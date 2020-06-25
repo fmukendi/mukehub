@@ -100,7 +100,7 @@ Send through discord the git projet url anytime whithin 1.5 month
 
 ## (4) Grow To be a Full Stack Software Engineer
 
-### (4.1) Learning Steps
+### (4.1) Learning Steps - Entry Level Web Developper
 
 etre productif vous devez apprendre HTML, CSS, Javascript et Git en 1.5 mois
 
@@ -268,6 +268,75 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 - GCP (Google Cloud Platform)
 - Docker
 - Kubernetes
+- CI/CD
+
+## (7) Formation Stepper Blue Print 
+### Introduction
+- BootCamp Software Developper
+- 0 to 100 Full Stack Software Engineer / Devops
+- 24 weeks
+- Price ( US : $15k, DRC: $1.5k, South Africa:$3k, Europe:$10k)
+
+### (7.1) Entry Level Web Developper 
+- 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+
+### (7.2) Junior Level Web Developper 
+- 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+
+### (7.3) Mid Level Full Stack Web Software Developper 
+- 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Spring Boot , Java, REST API
+
+### (7.4) Senior Level Full Stack Web Software Developper / Hybrid Mobile 
+- 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Spring Boot , Java, REST API
+- Ionic/Angular
+
+### (7.5) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 1 
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Ionic/Angular
+- GCP, FireBase (Rest-Less Application)
+
+### (7.6) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 2 
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Ionic/Angular
+- GCP, Docker
+
+### (7.7) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 3 
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Ionic/Angular
+- GCP, Docker, Kubernetes
+
+### (7.8) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 4 
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Ionic/Angular
+- GCP, Docker, Kubernetes
+- CI/CD (Concourse, Jenkins, Team-City)
+
+
 
 
 
