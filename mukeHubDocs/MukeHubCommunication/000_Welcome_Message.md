@@ -106,35 +106,123 @@ etre productif vous devez apprendre HTML, CSS, Javascript et Git en 1.5 mois
 
 #### (4.1.1) step 1 - Learning HTML
 - 4 days : HTML ( Base only : 15-20%)
+- Software:
+  - VS CODE
+  - Google Chrome
+- Books or online course (free):
+  - cours sur html et css: 
+    - http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+
+  Learned : HTML 
 
 #### (4.1.2) step 2 - Learning CSS
 - 3 days : CSS ( Base only : 15-20%)
+- Software:
+  - VS CODE
+  - Google Chrome
+- Books or online course (free):
+  - cours sur html et css: 
+    - http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+
+  Learned: HTML, CSS
 
 #### (4.1.3) step 3 - Learning Javascript
 - 1 Week: Javascript ( Base only : 15-20%)
+- Software:
+  - VS CODE
+  - Google Chrome
+- Books or online course (free):
+  - cours sur javascript: 
+    - http://user.oc-static.com/pdf/309961-dynamisez-vos-sites-web-avec-javascript.pdf
+
+Learned: HTML, CSS, Javascript
 
 #### (4.1.4) step 4 - Build your First Website with HMTL, CSS, Javascript
 - 1 week: Build local website with HTML,CSS, Javascript combined
+- Software:
+  - VS CODE
+  - Google Chrome
+- Books or online course (free):
+  - cours sur HTML & Javscript: 
+  - cours sur javascript: 
+    - http://user.oc-static.com/pdf/309961-dynamisez-vos-sites-web-avec-javascript.pdf
+
+Learned: HTML, CSS, Javascript
 
 #### (4.1.5) step 5 - Learn Git / Github.com
 - 3 days : git ( Base only : 15-20%)
+- Software:
+  - VS CODE
+  - Google Chrome
+  - GitHub Desktop
+- Books or online course (free):
+  - cours sur Git: 
+    - http://user.oc-static.com/pdf/254198-gerez-vos-codes-source-avec-git.pdf
+
+Learned: Git
 
 #### (4.1.6) step 6 - push your code to github.com 
 - 1 day : push your web site code to github.com and share your project with the group
+- Software:
+  - VS CODE
+  - Google Chrome
+  - GitHub Desktop
+- Books or online course (free):
+  - cours sur html et css: 
+    - http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
 
-#### (4.1.7) step 7 - publish your website to github.io.pages
+  Learned: GIT , Github.com
+
+
+#### (4.1.7) step 7 - Jquery
+What's Jquery? 
+- jquery is javascript library framework used for DOM (Document Object Model) manipulation.
+- jquery permit will help you create Dynamic Website. 
+
+- 1 day : push your web site code to github.com and share your project with the group
+- Software:
+  - VS CODE
+  - Google Chrome
+  - GitHub Desktop
+- Books or online course (free):
+  - cours sur html et css: 
+    - http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+
+  Learned: HTML, CSS, Javacript, Jquery, Git , Github.com
+  Notes: you must create branches and push code to GitHub.com
+
+#### (4.1.8) step 8 - publish your website to github.io.pages
 - 1 day : do some research and learn how to publish your website to github.io
+- 3 days : git ( Base only : 15-20%)
+- Software:
+  - VS CODE
+  - Google Chrome
+  - GitHub Desktop
+- Books or online course (free):
+  - cours sur Git: 
+    - http://user.oc-static.com/pdf/254198-gerez-vos-codes-source-avec-git.pdf
+    - http://user.oc-static.com/pdf/160891-jquery-ecrivez-moins-pour-faire-plus.pdf
+
+Learned: Git , Github.com
+Notes: you must create branches and push code to GitHub.com
+
 
 
 ###  (4.2) livre gratuit
 etre productif vous devez apprendre HTML, CSS, Javascript et Git en 1.5 mois
 
-cours sur html et css: http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
+cours sur html et css: 
+- http://user.oc-static.com/pdf/13666-apprenez-a-creer-votre-site-web-avec-html5-et-css3.pdf
 
-cours de javascript : http://user.oc-static.com/pdf/309961-dynamisez-vos-sites-web-avec-javascript.pdf
+cours de javascript : 
+- http://user.oc-static.com/pdf/309961-dynamisez-vos-sites-web-avec-javascript.pdf
 
-cours introduction a git: http://user.oc-static.com/pdf/254198-gerez-vos-codes-source-avec-git.pdf
+cours introduction a git: 
+- http://user.oc-static.com/pdf/254198-gerez-vos-codes-source-avec-git.pdf
 
+cours de jquery : 
+- http://user.oc-static.com/pdf/160891-jquery-ecrivez-moins-pour-faire-plus.pdf
+- http://user.oc-static.com/pdf/160891-jquery-ecrivez-moins-pour-faire-plus.pdf
 
 
 ## (5) les softwares de base
