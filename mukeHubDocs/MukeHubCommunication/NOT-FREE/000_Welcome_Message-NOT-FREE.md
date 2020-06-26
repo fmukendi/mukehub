@@ -256,42 +256,63 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 - Spring-Boot
 - .Net Core 
 
-### (6.3) Mobile Programming
+### (6.3) Database Engineer
+- SQL SERVER
+
+### (6.4) Data Analyst
+- EXCEL
+- Tableau
+
+### (6.5) Database ETL Engineer
+- SSRS
+- SSIS 
+- SSAS
+
+### (6.6) Mobile Programming
 - Angular + Ionic 5+
 
-### (6.4) Game Programming
+### (6.7) Game Programming
 - Unity 
 - C#
 - Blender
 
-### (6.5) Devops
-
-(a) Integration
-- Kafka
-- Elastic Search
-
-(b) Productivity
-- Docker
+### (6.8) Code Quality
 - Unit Test : Back End & Front End
 - e2e : Back End & Front End
 
-(c) CI-CD
+### (6.9) Devops
+
+(a) Cloud - Level 1
+- PCF (simple deployment)
+- GCP (simple deployment)
+
+(b) Productivity - Level 2
+- Docker
+
+(c) Integration
+- Kafka
+- Elastic Search
+
+(d) CI-CD
 - Jenkins
 - Concourse
 - Team City
 - GitActions
 
-(d) Cloud
+(e) Cloud - Level 2
+- PCF
 - GCP
+
+(f) Cloud - Level 3
 - Kubernetes
 
-(e) Monitoring
+(g) Monitoring
 - Jaeger ...
 
-(f) cloud Monitoring
-- Jaeger ...
+(h) cloud Monitoring
+- GCP Cloud Monitoring ...
 
-## (7) Formation Stepper Blue Print 
+## (7) Formation Stepper Blue Print - Full Stack Software Engineer
 ### Introduction
 - BootCamp Software Developper
 - 0 to 100 Full Stack Software Engineer / Devops
@@ -303,28 +324,58 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 
 - HTML , CSS , Javascript , Jquery, Git
 
-### (7.2) Junior Level Web Developper 
+### (7.2) Junior Level Web Developper - Level 1
 - 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular 
+
+### (7.2) Junior Level Web Developper - Level 2
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine)
+
+### (7.2) Junior Level Web Developper - Level 3
+- 2 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
 - Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
 
-### (7.3) Mid Level Full Stack Web Software Developper 
+
+### (7.3) Mid Level Full Stack Web Software Developper - Level 1
 - 4 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
 - Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
 - Spring Boot , Java, REST API
 
-### (7.4) Senior Level Full Stack Web Software Developper / Hybrid Mobile 
+
+### (7.3) Mid Level Full Stack Web Software Developper - LEVEL 2
 - 4 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
 - Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
 - Spring Boot , Java, REST API
-- Ionic/Angular
+- SQL SERVER
 
-### (7.5) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 1 
+### (7.3) Mid Level Full Stack Web Software Developper / DevOPS - LEVEL 3
+- 1 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Spring Boot , Java, REST API
+- SQL SERVER
+- PCF, GCP (Simple deployment)
+
+### (7.4) Senior Level Full Stack Web Software Developper / DevOPS - Level 1
+- 4 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- Spring Boot , Java, REST API
+
+### (7.5) Senior Level Full Stack Web Software Developper / Devops - Level 2 
 - 2 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
@@ -332,7 +383,15 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 - Ionic/Angular
 - GCP, FireBase (Rest-Less Application)
 
-### (7.6) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 2 
+### (7.6) Senior Level Full Stack Web Software Developper / Devops - Level 3 
+- 2 weeks
+
+- HTML , CSS , Javascript , Jquery, Git
+- Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
+- GCP, FireBase (Rest-Less Application)
+- Kafka & Elastic Search
+
+### (7.7) Senior Level Full Stack Web Software Developper / Devops - Level 4 
 - 2 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
@@ -340,20 +399,18 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 - Ionic/Angular
 - GCP, Docker
 
-### (7.7) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 3 
+### (7.8) Senior Level Full Stack Web Software Developper / Devops - Level 5 
 - 2 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
 - Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
-- Ionic/Angular
 - GCP, Docker, Kubernetes
 
-### (7.8) Senior Level Full Stack Web Software Developper / Hybrid Mobile / Devops - Level 4 
+### (7.9) Senior Level Full Stack Web Software Developper /Devops - Level 6 
 - 2 weeks
 
 - HTML , CSS , Javascript , Jquery, Git
 - Typescript, Angular , Unit Test (Karma, Jasmine), e2e (Cypress)
-- Ionic/Angular
 - GCP, Docker, Kubernetes
 - CI/CD (Concourse, Jenkins, Team-City)
 
