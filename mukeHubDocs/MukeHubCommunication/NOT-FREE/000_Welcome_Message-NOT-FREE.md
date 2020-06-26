@@ -265,10 +265,31 @@ voici ci dessous la liste de tech dont on pourvois de l aide
 - Blender
 
 ### (6.5) Devops
-- GCP (Google Cloud Platform)
+
+(a) Integration
+- Kafka
+- Elastic Search
+
+(b) Productivity
 - Docker
+- Unit Test : Back End & Front End
+- e2e : Back End & Front End
+
+(c) CI-CD
+- Jenkins
+- Concourse
+- Team City
+- GitActions
+
+(d) Cloud
+- GCP
 - Kubernetes
-- CI/CD
+
+(e) Monitoring
+- Jaeger ...
+
+(f) cloud Monitoring
+- Jaeger ...
 
 ## (7) Formation Stepper Blue Print 
 ### Introduction
