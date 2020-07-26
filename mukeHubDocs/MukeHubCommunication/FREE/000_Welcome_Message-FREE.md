@@ -173,6 +173,47 @@ Learned: Git
 
   Learned: GIT , Github.com
 
+  How to push to github ?
+  (1) go to https://github.com/
+
+   <img src="../../../content/images/img0002.jpg">
+
+  (2) Sign into your account
+   <img src="../../../content/images/img0003.jpg">
+
+   (3) click to create a new repository
+   <img src="../../../content/images/img0004.jpg">
+   <img src="../../../content/images/img0005.jpg">
+   <img src="../../../content/images/img0006.jpg">
+  
+  (4) How to do the first code push 
+
+  ```bash
+    echo "# website001" >> README.md   
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/fmukendi/website001.git
+    git push -u origin master
+  ```
+
+  or 
+
+  ```bash
+  echo "# website001" >> README.md 
+  git init
+  git add .
+  git commit -m "first commit"
+  git remote add origin https://github.com/fmukendi/website001.git 
+  git push -u origin master
+  ```
+   (5) How to do the 2nd code push  and more 
+
+   ```bash
+   git add .
+   git commit -m "2nd commit or more "
+   git push
+   ```
 
 #### (4.1.7) step 7 - Jquery
 What's Jquery? 

@@ -502,7 +502,34 @@ Send through discord the git projet url anytime whithin 1.5 month</p>
 </li>
 </ul>
 <p>Learned: GIT , <a href="http://Github.com">Github.com</a></p>
-</li>
+<p>How to push to github ?<br>
+(1) go to <a href="https://github.com/">https://github.com/</a></p>
+ <img src="../../../content/images/img0002.jpg">
+<p>(2) Sign into your account<br>
+<img src="../../../content/images/img0003.jpg"></p>
+<p>(3) click to create a new repository<br>
+<img src="../../../content/images/img0004.jpg"><br>
+<img src="../../../content/images/img0005.jpg"><br>
+<img src="../../../content/images/img0006.jpg"></p>
+<p>(4) How to do the first code push</p>
+<pre data-role="codeBlock" data-info="bash" class="language-bash">  <span class="token keyword">echo</span> <span class="token string">&quot;# website001&quot;</span> <span class="token operator">&gt;&gt;</span> README.md   
+  <span class="token function">git</span> init
+  <span class="token function">git</span> add README.md
+  <span class="token function">git</span> commit -m <span class="token string">&quot;first commit&quot;</span>
+  <span class="token function">git</span> remote add origin https://github.com/fmukendi/website001.git
+  <span class="token function">git</span> push -u origin master
+</pre><p>or</p>
+<pre data-role="codeBlock" data-info="bash" class="language-bash"><span class="token keyword">echo</span> <span class="token string">&quot;# website001&quot;</span> <span class="token operator">&gt;&gt;</span> README.md 
+<span class="token function">git</span> init
+<span class="token function">git</span> add <span class="token keyword">.</span>
+<span class="token function">git</span> commit -m <span class="token string">&quot;first commit&quot;</span>
+<span class="token function">git</span> remote add origin https://github.com/fmukendi/website001.git 
+<span class="token function">git</span> push -u origin master
+</pre><p>(5) How to do the 2nd code push  and more</p>
+<pre data-role="codeBlock" data-info="bash" class="language-bash"><span class="token function">git</span> add <span class="token keyword">.</span>
+<span class="token function">git</span> commit -m <span class="token string">&quot;2nd commit or more &quot;</span>
+<span class="token function">git</span> push
+</pre></li>
 </ul>
 <h4 class="mume-header" id="417-step-7-jquery">(4.1.7) step 7 - Jquery</h4>
 
