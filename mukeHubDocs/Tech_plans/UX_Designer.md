@@ -1,11 +1,16 @@
 
 # UX Designer
+User Experience Designer 
 
 ## (A) Softwares
 
 ### (1) Figma
 
 How much does a UX designer makes in the US ? (Google Salary in California !!!)
+In Atlanta
+Starting  Salary Entry Level should be 45-65k
+          Salary Mid Levle should be 65-90k
+          Salary Senior Level should be 90-140k
 
 - https://www.youtube.com/watch?v=FiGGIrgFatA
 
