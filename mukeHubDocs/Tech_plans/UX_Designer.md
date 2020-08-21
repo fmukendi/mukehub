@@ -5,7 +5,7 @@
 
 ### (1) Figma
 
-How much does a UX designer makes in the US ?
+How much does a UX designer makes in the US ? (Google Salary in California !!!)
 
 - https://www.youtube.com/watch?v=FiGGIrgFatA
 
