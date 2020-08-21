@@ -1,6 +1,10 @@
 
 # UX Designer
-User Experience Designer 
+User Experience Designer
+     - Imagination and Design sense is more important
+     - No Coding
+     - Good to know HTML, CSS but not required
+
 
 ## (A) Softwares
 
