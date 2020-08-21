@@ -5,6 +5,11 @@
 
 ### (1) Figma
 
+How much does a UX designer makes in the US ?
+
+- https://www.youtube.com/watch?v=FiGGIrgFatA
+
+
 #### (1.0) What is for  ?
 
 - https://www.youtube.com/watch?v=s3QGrWOHqDc
