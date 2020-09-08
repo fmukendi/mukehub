@@ -26,3 +26,5 @@ Please complete the design below:
  - Push your code to github
  - display a static website using github.io.pages
 
+<img src="../NewCoderJourney/mukehub000010.JPG" alt="Italian Trulli">
+
